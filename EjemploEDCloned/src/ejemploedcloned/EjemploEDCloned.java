@@ -15,6 +15,8 @@ public class EjemploEDCloned {
        
        System.out.println("cad1 tiene "+ cad1.length()+ " caracteres");
        System.out.println("cad2 tiene "+ cad2.length()+ " caracteres");
+        
+       System.out.println("Prueba descarga de git");
     }
     
 }
